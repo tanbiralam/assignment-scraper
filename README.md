@@ -81,7 +81,7 @@ The output in `products.json` will be in the following format:
         "MRP": "57.4",
         "Quantity": "1 Pack"
     },
-    ...
+    
 ]
 ```
 
