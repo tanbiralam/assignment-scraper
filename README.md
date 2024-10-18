@@ -30,8 +30,6 @@ To run this project, ensure you have the following installed:
    git clone https://github.com/tanbiralam/assignment-scraper
    ```
 
-````
-
 2. Navigate to the project directory:
 
    ```bash
@@ -87,11 +85,11 @@ The output in `products.json` will be in the following format:
 ]
 ```
 
-### Key Changes:
+## Key Changes:
+
 - Added a section for `requirements.txt`, including the required packages.
 - Updated installation instructions to reflect using the `requirements.txt` file.
 
-Feel free to modify any parts as needed! If you have any more requests, just let me know.
-```
+## License
 
-````
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
