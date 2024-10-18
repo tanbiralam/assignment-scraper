@@ -90,6 +90,3 @@ The output in `products.json` will be in the following format:
 - Added a section for `requirements.txt`, including the required packages.
 - Updated installation instructions to reflect using the `requirements.txt` file.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
