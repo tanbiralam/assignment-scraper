@@ -1,6 +1,3 @@
-Here’s the updated `README.md` file that includes the `requirements.txt` section.
-
-````markdown
 # Web Scraping Vegetables Data
 
 This project utilizes Selenium and BeautifulSoup to scrape data from the Otipy website's vegetable category. The script extracts information about various vegetable products, including their names, prices, and quantities, and saves the data in a JSON file.
@@ -32,6 +29,7 @@ To run this project, ensure you have the following installed:
    ```bash
    git clone https://github.com/tanbiralam/assignment-scraper
    ```
+
 ````
 
 2. Navigate to the project directory:
@@ -89,11 +87,11 @@ The output in `products.json` will be in the following format:
 ]
 ```
 
-```
-
 ### Key Changes:
 - Added a section for `requirements.txt`, including the required packages.
 - Updated installation instructions to reflect using the `requirements.txt` file.
 
 Feel free to modify any parts as needed! If you have any more requests, just let me know.
 ```
+
+````
